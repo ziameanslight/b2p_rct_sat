@@ -1,0 +1,17 @@
+# analysis (scripts/)
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+torch
+matplotlib
+# AlphaEarth fetch (scripts/b2p_fetch_aef.py, via village-wealth-change pipeline/)
+geopandas
+shapely
+pyproj
+rasterio
+fsspec
+requests
+tifffile
+zstandard

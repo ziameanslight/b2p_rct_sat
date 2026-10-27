@@ -1,0 +1,8 @@
+# B2P survey microdata and everything derived from it at household or village level stay local
+b2psurvey data/
+data/
+# local
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
